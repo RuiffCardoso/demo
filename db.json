@@ -1,34 +1,17 @@
 {
-  "user": [
-    {
-      "id": 1,
-      "name": "Rui Cardoso",
-      "username": "rui.cardoso",
-      "email": "rui.cardoso@petrotec.com",
-      "contact": "9843938819",
-      "company": {
-        "id": "petro_tec_id",
-        "name": "Petrotec SAGS"
-      },
-      "costCenter": {
-        "id": "south_petro",
-        "name": "Casal do Marco"
-      }
+  "user": {
+    "id": 1133,
+    "name": "Rui Cardoso",
+    "username": "rui.cardoso",
+    "email": "rui.cardoso@petrotec.com",
+    "contact": "9843938819",
+    "company": {
+      "id": "petro_tec_id",
+      "name": "Petrotec SAGS"
     },
-    {
-      "id": 2,
-      "name": "Abel Moscovo",
-      "username": "abel.moscovo",
-      "email": "abel.moscovo@petrotec.com",
-      "contact": "9843938819",
-      "company": {
-        "id": "galp_id",
-        "name": "Galp LDA"
-      },
-      "costCenter": {
-        "id": "asd123",
-        "name": "Galp MST"
-      }
+    "costCenter": {
+      "id": "south_petro",
+      "name": "Casal do Marco"
     }
-  ]
+  }
 }
